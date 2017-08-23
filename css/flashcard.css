@@ -1,0 +1,12 @@
+div.panel-body {
+  display: none;
+}
+
+div.panel-heading {
+  cursor: pointer;
+}
+
+div.panel-heading:hover {
+  text-decoration: underline;
+  color: blue;
+}
