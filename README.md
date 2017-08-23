@@ -22,8 +22,8 @@ Here is a list of (some) terms and concepts defined within the website:
 
 
 ## Setup/Installation Instructions
-To view the website, click [Flashcard Site](https:\\marynganga.github.io\flashcard-site) 
-or copy https:\\marynganga.github.io\flashcard-site\ to your brower and load it.
+To view the website, click [Flashcard Site](https://marynganga.github.io/flashcard-site) 
+or copy https://marynganga.github.io/flashcard-site/ to your brower and load it.
 
 ## Technologies Used
 
